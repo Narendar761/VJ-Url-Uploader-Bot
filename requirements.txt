@@ -18,6 +18,6 @@ bs4
 Flask==2.2.2
 gunicorn==20.1.0
 Jinja2==3.0.3
-werkzeug==2.0.2
+werkzeug==2.2.2
 itsdangerous==2.0.1
 pymongo[srv]==3.12.3
